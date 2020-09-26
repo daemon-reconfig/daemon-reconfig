@@ -6,5 +6,5 @@
 
 
 
-[instagram]: https://instagram.com/daemonreconfig
+[instagram]: https://instagram.com/daemon_reconfig
 [email]: mailto:i@mehulishi27@gmail.com
