@@ -8,5 +8,5 @@
 
 
 [instagram]: https://instagram.com/daemon_reconfig
-[email]: mailto:i@mehulishi27@gmail.com
+[email]: mailto:i@daemon_reconfig@secmail.pro
 [discord]: https://discord.gg/wPWynVp
