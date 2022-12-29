@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm daemon</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daemon-reconfig&label=Profile%20views&color=0e75b6&style=flat" alt="daemon-reconfig" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daemon-reconfig&label=Profile%20views&color=0e75b6&style=flat" alt="daemon-reconfig" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daemon-reconfig" alt="daemon-reconfig" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/retr0d-sec" target="blank"><img src="https://img.shields.io/twitter/follow/retr0d-sec?logo=twitter&style=for-the-badge" alt="retr0d-sec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/retr0d-sec" target="blank"><img src="https://img.shields.io/twitter/follow/Retr0dS?logo=twitter&style=for-the-badge" alt="retr0d-sec" /></a> </p>
 
 - 🔭 I’m currently working on **creating a trustable review platform**
 
