@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/retr0d-sec" target="blank"><img src="https://img.shields.io/twitter/follow/Retr0dS?logo=twitter&style=for-the-badge" alt="retr0d-sec" /></a> </p>
 
-- 🔭 I’m currently working on **creating a trustable review platform**
+- 🔭 I’m currently working on **SocioEth**
 
 - 🌱 I’m currently learning **Next.js**
 
