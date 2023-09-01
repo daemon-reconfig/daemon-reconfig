@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SocioEth**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Assembly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
