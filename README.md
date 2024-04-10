@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/retr0d-sec" target="blank"><img src="https://img.shields.io/twitter/follow/Retr0dS?logo=twitter&style=for-the-badge" alt="retr0d-sec" /></a> </p>
 
-- 🔭 I’m currently working on **SocioEth**
+- 🔭 I’m currently working on an app similar to Splitwise but **better**
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
